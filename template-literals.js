@@ -7,3 +7,6 @@ const vegetables = ["carrot", "broccoli", "spinach"];
 const grains = ["rice", "quinoa", "oats"];
 const proteins = ["chicken", "fish", "tofu"];
 
+//merge the four arrays
+const mergingArray = [...fruits,...vegetables,...grains,...proteins]
+console.log(mergingArray)
