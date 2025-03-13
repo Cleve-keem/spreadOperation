@@ -22,3 +22,4 @@ const person = {
     color:"pink",
     status:"single"
 }
+
