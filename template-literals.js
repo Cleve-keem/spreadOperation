@@ -10,3 +10,10 @@ const proteins = ["chicken", "fish", "tofu"];
 //merge the four arrays
 const mergingArray = [...fruits,...vegetables,...grains,...proteins]
 console.log(mergingArray)
+
+const person = {
+    name:"Peace",
+    age:15,
+    color:"pink",
+    status:"single"
+}
